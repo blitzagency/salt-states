@@ -1,5 +1,5 @@
-base:
 
+base:
   'roles:master':
-  - match: grain
+    - match: grain
     - master
